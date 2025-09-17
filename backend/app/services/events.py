@@ -40,3 +40,4 @@ def delete_event(db: Session, event: Event) -> None:
 
 
 
+

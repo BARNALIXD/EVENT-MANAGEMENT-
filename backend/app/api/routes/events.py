@@ -27,3 +27,4 @@ def get_event_detail(event_id: int, db: Session = Depends(get_db)):
 
 
 
+
